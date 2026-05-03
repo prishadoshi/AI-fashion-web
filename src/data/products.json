@@ -1,0 +1,246 @@
+[
+  {
+    "title": "Matcha Polo",
+    "price": 2399,
+    "images": ["images/matcha-polo1.png", "images/matcha-polo2.png","images/matcha-polo3.png"],
+    "category": "polo",
+    "description": "A fresh take on a classic. The Pista Essential Polo offers a smooth fit, soft feel, and a clean finish in a standout pastel tone.",
+    "gender": "F"
+  },
+  {
+    "title": "Midnight Club Polo",
+    "price": 2399,
+    "images": ["images/midnight-club-polo1.png","images/midnight-club-polo2.png","images/midnight-club-polo3.png"],
+    "category": "polo",
+    "description": "Lightweight and polished with a deep midnight finish. Simple to wear, easy to pair, always sharp.",
+    "gender": "M"
+  },
+  {
+    "title": "Noir Classic Polo",
+    "price": 2399,
+    "images": ["images/noir-classic-polo1.png","images/noir-classic-polo2.png","images/noir-classic-polo3.png"],
+    "category": "polo",
+    "description": "A sharp black polo with a smooth, structured fit. Refined, versatile, and always in style.",
+    "gender": "M"
+  },
+  {
+    "title": "Ivory Crest Polo",
+    "price": 2499,
+    "images": ["images/ivory-crest-polo1.png", "images/ivory-crest-polo2.png","/ivory-crest-polo3.png"],
+    "category": "polo",
+    "description": "A soft ivory tone paired with a smooth, structured fit. Polished, versatile, and effortlessly elevated.",
+    "gender": "M"
+  },
+  {
+    "title": "Full Black Polo",
+    "price": 2999,
+    "images": ["images/full-black-polo1.png", "images/full-black-polo2.png", "images/full-black-polo3.png"],
+    "category": "polo",
+    "description": "A polished everyday polo with a sharp, structured fit. Smooth fabric and subtle detailing give it a refined edge.",
+    "gender": "F"
+  },
+  {
+    "title": "Neoma Green Collared Polo",
+    "price": 2999,
+    "images": ["images/neoma-green-collared-polo1.png", "images/neoma-green-collared-polo2.png", "images/neoma-green-collared-polo3.png"],
+    "category": "polo",
+    "description": "A fresh take on a classic. The Pista Essential Polo offers a smooth fit, soft feel, and a clean finish in a standout pastel tone.",
+     "gender": "M"
+  },
+  {
+    "title": "White Graft Polo",
+    "price": 3299,
+    "images": ["images/white-graft-polo1.png", "images/white-graft-polo2.png", "images/white-graft-polo3.png"],
+    "category": "polo",
+    "description": "A crisp polo with a refined fit, blending comfort with understated style.",
+     "gender": "M"
+  },
+  {
+    "title": "Tiger Utility Shacket",
+    "price": 2999,
+    "images": ["images/tiger-utility-shacket1.png", "images/tiger-utility-shacket2.png", "images/tiger-utility-shacket3.png"],
+    "category": "shacket",
+    "description": "A versatile layer with a structured build and subtle utility detailing. Easy to style, effortless to wear.",
+     "gender": "M"
+  },
+  {
+    "title": "Circle Utility Shacket",
+    "price": 2999,
+    "images": ["images/circle-utility-shacket1.png", "images/circle-utility-shacket2.png", "images/circle-utility-shacket3.png"],
+    "category": "shacket",
+    "description": "Structured yet relaxed, the Circle Utility Shacket delivers everyday functionality with a clean, contemporary look.",
+     "gender": "M"
+  },
+  {
+    "title": "Hustle Hoodie",
+    "price": 2999,
+    "images": ["images/hustle-hoodie1.png", "images/hustle-hoodie2.png", "images/hustle-hoodie3.png"],
+    "category": "hoodie",
+    "description": "Smooth fabric and clean lines paired with a bold Hustle print for effortless comfort with attitude.",
+     "gender": "M"
+  },
+  {
+    "title": "Fearless Embroidered Hoodie",
+    "price": 2999,
+    "discounted_price": 1999,
+    "images": ["images/fearless-embroidered-hoodie1.png", "images/fearless-embroidered-hoodie2.png", "images/fearless-embroidered-hoodie3.png"],
+    "category": "hoodie",
+    "description": "A polished, comfortable hoodie highlighted by crisp Fearless embroidery that makes a subtle yet powerful statement.",
+     "gender": "F"
+  },
+  {
+    "title": "Blessed Embroidered Hoodie",
+    "price": 1999,
+    "discounted_price": 1999,
+    "images": ["images/blessed-embroidered-hoodie1.png", "images/blessed-embroidered-hoodie2.png", "images/blessed-embroidered-hoodie3.png"],
+    "category": "hoodie",
+    "description": "A polished, easygoing hoodie highlighted by subtle Blessed embroidery that brings warmth and character to any look.",
+    "gender": "F"
+  },
+  {
+    "title": "Nonchalant Hoodie",
+    "price": 3499,
+    "images": ["images/nonchalant-hoodie1.png", "images/nonchalant-hoodie2.png", "images/nonchalant-hoodie3.png"],
+    "category": "hoodie",
+    "description": "Soft, breathable, and quietly stylish. The Nonchalant Hoodie brings a calm, polished feel to your daily rotation.",
+    "gender": "M"
+  },
+  {
+    "title": "Bloom Edition Shirt",
+    "price": 3499,
+    "images": ["images/bloom-edition-shirt1.png", "images/bloom-edition-shirt2.png", "images/bloom-edition-shirt3.png"],
+    "category": "Shirt",
+    "description": "A refined shirt with a soft drape crafted for calm, elevated everyday style.",
+    "gender": "B"
+  },
+  {
+    "title": "Nonchalant Back Stripe Shirt",
+    "price": 3499,
+    "images": ["images/nonchalant-back-stripe-shirt1.png", "images/nonchalant-back-stripe-shirt2.png", "images/nonchalant-back-stripe-shirt3.png"],
+    "category": "Shirt",
+    "description": "Designed with a minimal front and a standout Nonchalant typography across the back, this shirt blends simplicity with quiet individuality.",
+    "gender": "M"
+  },
+  {
+    "title": "Chambray Classic Shirt",
+    "price": 2999,
+    "images": ["images/chambray-classic-shirt1.png", "images/chambray-classic-shirt2.png", "images/chambray-classic-shirt3.png"],
+    "category": "Shirt",
+    "description": "A lightweight chambray shirt designed for effortless everyday polish.",
+    "gender": "M"
+  },
+  {
+    "title": "Blue Stripe Shirt",
+    "price": 2499,
+    "images": ["images/blue_stripe_shirt1.png", "images/blue_stripe_shirt2.png", "images/blue_stripe_shirt3.png"],
+    "category": "Shirt",
+    "description": "Timeless stripes with a clean finish, designed for effortless everyday dressing.",
+    "gender": "F"
+  },
+  {
+    "title": "Yellow Stripe Shirt",
+    "price": 2499,
+    "images": ["images/yellow_stripe_shirt1.png", "images/yellow_stripe_shirt2.png", "images/yellow_stripe_shirt3.png"],
+    "category": "Shirt",
+    "description": "Timeless stripes with a clean finish, designed for effortless everyday dressing.",
+    "gender": "F"
+  },
+  {
+    "title": "Token T-Shirt",
+    "price": 2999,
+    "images": ["images/token_t-shirt1.png", "images/token_t-shirt2.png", "images/token_t-shirt3.png"],
+    "category": "Tshirt",
+    "description": "A clean essential with a minimal finish, designed for everyday comfort and versatility.",
+    "gender": "M"
+  }, 
+  {
+    "title": "Black Quarter Zip",
+    "price": 2799,
+    "images": ["images/black_quarter_zip1.png", "images/black_quarter_zip2.png", "images/black_quarter_zip3.png"],
+    "category": "Zipper",
+    "description": "A sleek everyday layer with a refined finish. Smooth, comfortable, and easy to pair with anything.",
+    "gender": "M"
+  }, 
+  {
+    "title": "Grey Quarter Zip",
+    "price": 2799,
+    "images": ["images/grey_quarter_zip1.png", "images/grey_quarter_zip2.png", "images/grey_quarter_zip3.png"],
+    "category": "Zipper",
+    "description": "A smooth everyday layer with a polished finish. Easy to wear, easy to style, and perfect for any plan.",
+    "gender": "F"
+  },
+  {
+    "title": "Noir Blazer Shirt",
+    "price": 2499,
+    "discounted_price": 2399,
+    "images": ["images/noir-blazer-shirt1.png", "images/noir-blazer-shirt2.png", "images/noir-blazer-shirt3.png"],
+    "category": "Shirt",
+    "description": "Tailored like a blazer and styled as a shirt, this piece brings sharp lines and quiet sophistication.",
+    "gender": "M"
+  },
+  {
+   "title": "Neoma Sweatpants - Black",
+    "price": 2299,
+    "images": ["images/neoma-sweatpants-black1.png", "images/neoma-sweatpants-black2.png", "images/neoma-sweatpants-black3.png"],
+    "category": "Sweatpant",
+    "description": "Crafted with a refined texture and a sharp black tone, these sweatpants deliver understated confidence and all day ease.",
+    "gender": "M" 
+  },
+  {
+    "title": "Neoma Sweatpants - Navy Blue",
+    "price": 2299,
+    "images": ["images/neoma-sweatpants-navy-blue1.png", "images/neoma-sweatpants-navy-blue2.png", "images/neoma-sweatpants-navy-blue3.png"],
+    "category": "Sweatpant",
+    "description": "Refined texture meets a calm navy hue, giving these sweatpants a balanced blend of comfort and quiet sophistication.",
+    "gender": "M"
+  },
+  {
+    "title": "Monaco Waffle Sweatpant - Black",
+    "price": 2499,
+    "images": ["images/monaco-waffle-sweatpant-black1.png", "images/monaco-waffle-sweatpant-black2.png", "images/monaco-waffle-sweatpant-black3.png"],
+    "category": "Sweatpant",
+    "description": "Lightweight with a subtle waffle weave that adds depth and motion. Simple, versatile, and effortlessly stylish.",
+    "gender": "M"
+  },
+  {
+    "title": "Monaco Waffle Sweatpant - White",
+    "price": 2499,
+    "images": ["images/monaco-waffle-sweatpant-white1.png", "images/monaco-waffle-sweatpant-white2.png", "images/monaco-waffle-sweatpant-white3.png"],
+    "category": "Sweatpant",
+    "description": "Lightweight with a subtle waffle weave that adds depth and motion. Simple, versatile, and effortlessly stylish.",
+    "gender": "M"
+  },
+  {
+    "title": "Grey Wide-Leg Sweatpants",
+    "price": 2799,
+    "images": ["images/grey-wide-leg-sweatpants1.png", "images/grey-wide-leg-sweatpants2.png", "images/grey-wide-leg-sweatpants3.png"],
+    "category": "Sweatpant",
+    "description": "A smooth wide leg fit with a relaxed, polished feel. Easy to wear and perfect for everyday comfort.",
+    "gender": "F"
+  },
+  {
+    "title": "Black Wide-Leg Sweatpants",
+    "price": 2799,
+    "images": ["images/black-wide-leg-sweatpants1.png", "images/black-wide-leg-sweatpants2.png", "images/black-wide-leg-sweatpants3.png"],
+    "category": "Sweatpant",
+    "description": "A smooth wide leg fit with a relaxed, polished feel. Easy to wear and perfect for everyday comfort.",
+    "gender": "F"
+  },
+  {
+    "title": "Structured Trouser",
+    "price": 3499,
+    "images": ["images/structured-trouser1.png", "images/structured-trouser2.png", "images/structured-trouser3.png"],
+    "category": "Trousers",
+    "description": "A polished, streamlined fit crafted for everyday sophistication. Smooth texture, sharp lines, effortless appeal.",
+    "gender": "M"
+  },
+  {
+    "title": "The Palermo Linen Trouser",
+    "price": 3499,
+    "images": ["images/the-palermo-linen-trouser1.png", "images/the-palermo-linen-trouser2.png", "images/the-palermo-linen-trouser3.png"],
+    "category": "Trousers",
+    "description": "A calm, polished essential made from breathable linen, perfect for staying cool while looking sharp.",
+    "gender": "M"
+  }
+
+]

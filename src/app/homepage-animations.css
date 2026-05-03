@@ -1,0 +1,95 @@
+/* ────────────────────────────────────────────────────────────
+   GSAP ANIMATIONS – paste into your global stylesheet
+──────────────────────────────────────────────────────────── */
+
+/* ── Custom cursor ── */
+.cursor-dot,
+.cursor-ring {
+  position: fixed;
+  top: 0; left: 0;
+  pointer-events: none;
+  z-index: 9999;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  mix-blend-mode: difference;
+}
+.cursor-dot {
+  width: 6px; height: 6px;
+  background: #fff;
+}
+.cursor-ring {
+  width: 32px; height: 32px;
+  border: 1.5px solid rgba(255,255,255,0.8);
+  transition: opacity 0.2s;
+}
+
+/* ── Marquee ticker ── */
+.marquee-track {
+  overflow: hidden;
+  background: #0d0d0d;
+  color: #f5f0e8;
+  padding: 12px 0;
+  white-space: nowrap;
+  border-top: 1px solid rgba(255,255,255,0.08);
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+.marquee-inner {
+  display: inline-flex;
+  will-change: transform;
+}
+.marquee-item {
+  font-size: 0.78rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  padding-right: 2.5rem;
+  font-family: inherit;
+  opacity: 0.75;
+}
+.marquee-dot {
+  margin-left: 2.5rem;
+  opacity: 0.4;
+  font-size: 0.6rem;
+  vertical-align: middle;
+}
+
+/* ── Magnetic button wrapper ── */
+.discover,
+.shopall-btn {
+  will-change: transform;
+  transition: background 0.25s, color 0.25s;
+}
+
+/* ── Card hover — ensure cards have position context ── */
+.new-in-box li,
+.best-seller-box li {
+  will-change: transform;
+  transition: box-shadow 0.3s;
+}
+.new-in-box li:hover,
+.best-seller-box li:hover {
+  box-shadow: 0 24px 48px rgba(0,0,0,0.15);
+}
+
+/* ── Banner overflow clip for parallax ── */
+.container3.overflow-hidden {
+  overflow: hidden;
+}
+
+/* ── Best seller heading clip animation base ── */
+.new-in-heading.Medium {
+  clip-path: inset(0 0 0 0); /* open state; GSAP animates from inset(0 100% 0 0) */
+}
+
+/* ── Video section words ── */
+#Play, #Reel {
+  will-change: transform, opacity;
+}
+
+/* ── Popup entrance ── */
+.popup.active {
+  animation: fadeUp 0.35s ease forwards;
+}
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
